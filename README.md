@@ -2,9 +2,9 @@
 
 An initiative to empower the software engineer to excel in the interview.
 
-<b>Website:</b> https://www.backtobackswe.com <br>
+<b>Website:</b> https://backtobackswe.com <br>
 
-<b>The Exhaustive Topics A Software Engineer Needs To Know To Pass A Big N Interview:</b>
+<b>Some Topics A Software Engineer Probably Needs To Know To Pass A Big N Interview:</b>
 
 - Fundamentals of Computer Systems (just a general knowing how computers store information etc.)
 - Big O Time & Space Complexity Computation
@@ -25,7 +25,7 @@ An initiative to empower the software engineer to excel in the interview.
 - Trees, Binary Trees, & Binary Search Trees
 - System and OO design Principles (sometimes)
 
-And that is pretty much it. These are the topics you need to know well to pass.
+And that is pretty much it for Data Structures & Algorithms.
 
 The channel's goal is to contribute to the community of people bridging
 these topics to help engineers excel in the interview.
